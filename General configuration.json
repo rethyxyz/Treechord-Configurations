@@ -26,7 +26,7 @@
 
 	"bindShiftA": "",
     "bindShiftB": "",
-	"bindShiftC": "",
+	"bindShiftC": "C:/Program Files (x86)/Clementine/clementine.exe",
 	"bindShiftF": "",
 	"bindShiftG": "",
 	"bindShiftH": "",
@@ -43,7 +43,7 @@
 	"bindShiftS": "",
 	"bindShiftT": "",
 	"bindShiftU": "",
-    "bindShiftV": "",
+    "bindShiftV": "C:/tools/vim/vim90/gvim.exe",
 	"bindShiftW": "",
 	"bindShiftY": "",
 	"bindShiftZ": "",
